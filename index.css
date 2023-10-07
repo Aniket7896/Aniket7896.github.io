@@ -286,10 +286,9 @@ nav ul.active {
 }
 
 .home-img {
-    border-bottom: 8px solid #5FF2D1;
-    border-right: 8px solid #5FF2D1;
     padding: 10px;
     padding-top: 0px;
+     padding-bottom: 0px;
     padding-left: 0px;
     border-radius: 10px;
 }
