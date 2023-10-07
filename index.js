@@ -21,7 +21,7 @@ function openResume() {
 }
 
 function paddingFunction() {
-  let x = doccument.getElementById("home");
+  let x = document.getElementById("home");
   x.style.padding = "100px";
 }
 
